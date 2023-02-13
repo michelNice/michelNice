@@ -24,7 +24,7 @@
 <h2>Contact <h2/>
 <div> 
   <a href="https://www.linkedin.com/in/michel-gouveia-de-oliveira-6b2812264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "https://wa.me/5521987638760"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+<a href = "https://wa.me/558196599779"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
 </div>
   
