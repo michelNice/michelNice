@@ -1,4 +1,4 @@
-## Hi there! I'm Michel Nice 🤙
+## Hi there! I'm Michel Gouveia 🤙
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
