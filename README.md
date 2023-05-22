@@ -1,6 +1,7 @@
 ## Hi there! I'm Michel Gouveia 🤙
 
 <p align="left">
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150em"
       align="center"
@@ -13,7 +14,7 @@
       src="https://github-readme-stats.vercel.app/api?username=michelNice&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
-   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   
 </p>
  <h2>Skills<h2/>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
