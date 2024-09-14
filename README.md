@@ -1,4 +1,4 @@
-## Hi there! I'm Michel Gouveia 🤙
+# Hi there! I'm Michel Gouveia 🤙
 
 <p align="left">
  
