@@ -11,7 +11,7 @@ I focus on writing clean, maintainable code using modern web technologies like *
 ## 🧠 Tech Stack
 
 - 💻 **Languages:** JavaScript (ES6+), HTML5, CSS3, Sass  
-- ⚛️ **Frameworks/Libraries:** React, Node.js, Express  
+- ⚛️ **Frameworks/Libraries:** React, Node.js
 - 🛠️ **Tools:** Git, GitHub, npm, VS Code
 
 ---
