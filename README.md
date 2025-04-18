@@ -45,7 +45,7 @@ I focus on writing clean, maintainable code using modern web technologies like *
 ## 📫 Contact Me
 
 <p>
-  <a href="https://www.linkedin.com/in/michel-gouveia-0642262b1/" target="_blank">
+  <a href="https://www.linkedin.com/in/michel-gouveia-080b98349/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/558196599779" target="_blank">
