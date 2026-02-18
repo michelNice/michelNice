@@ -1,4 +1,4 @@
-# Hi there! I'm Michel Gouveia 🤙
+# Hi there! I'm Michel Oliveira 🤙
 
 ## 👋 About Me
 
@@ -14,20 +14,6 @@ I focus on writing clean, maintainable code using modern web technologies like *
 - ⚛️ **Frameworks/Libraries:** React, Node.js
 - 🛠️ **Tools:** Git, GitHub, npm, VS Code
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/michelNice">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelNice&layout=compact&theme=radical" />
-  </a>
-  <a href="https://github.com/michelNice">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michelNice&count_private=true&show_icons=true&theme=radical&custom_title=Michel%20Gouveia's%20GitHub%20Stats&hide=issues" />
-  </a>
-</p>
-
----
 
 ## 🛠️ Skills
 
